@@ -28,7 +28,7 @@
 </a>
 </div>
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/<your-id>)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/snowman0919)
 
 <!--
 **snowman0919/snowman0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
