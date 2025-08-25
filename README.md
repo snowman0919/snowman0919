@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&height=310&color=gradient&text=Hi%20there,%20I'm%20Yoon%20Hyuk%20👋)
+
+### 📚 Tech Stack / Environment
+
+| Category        | Stack |
+|-----------------|-------|
+| 🏗 Framework    | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![PocketBase](https://img.shields.io/badge/PocketBase-1E1E1E?logo=databricks&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
+| ✏️ PLs         | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white) |
+| 💻 Environments | ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=githubpages&logoColor=white) |
+| ⚡ Networks     | ![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+
 ### 📫 Contact
 
 - Email: dbsgur123321@gmail.com
