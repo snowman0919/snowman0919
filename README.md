@@ -3,9 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=310&color=gradient&text=Hi%20there,%20I'm%20Yoon%20Hyuk%20👋)
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=snowman0919.snowman0919&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=snowman0919.snowman0919&" />
+  <a href="https://buymeacoffee.com/snowman0919">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" />
+  </a>
 </div>
-![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/snowman0919)
 
 
 ### 📚 Tech Stack / Environment
