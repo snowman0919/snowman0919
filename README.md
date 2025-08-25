@@ -27,6 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowman0919&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
 </a>
 </div>
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/<your-id>)
+
 <!--
 **snowman0919/snowman0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
