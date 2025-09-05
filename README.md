@@ -25,7 +25,7 @@
 - Arcademic Email: dbsgur123321@dimigo.hs.kr
 - Blog: [jobgut](https://snowman0919.site)
 
-### 🔭 Github Stats(본계,부계,부부계)
+### 🔭 Github Stats 본계,부계,부부계
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
