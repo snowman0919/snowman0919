@@ -36,8 +36,19 @@
 </a>
 </div>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+<p align="center">
+  <a href="https://solved.ac/{handle}">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle}" alt="Solved.ac 프로필" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- 뱃지 사이 간격 -->
+  <a href="https://solved.ac/{handle}">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle}" alt="Solved.ac 프로필" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- 뱃지 사이 간격 -->
+  <a href="https://solved.ac/{handle}">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle}" alt="Solved.ac 프로필" />
+  </a>
+</p>
 
 
 
