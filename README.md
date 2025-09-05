@@ -36,6 +36,8 @@
 </a>
 </div>
 
+### 🧑🏻‍💻 Alforithm Stats
+
 <p align="center">
   <a href="https://solved.ac/{handle}">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle}" alt="Solved.ac 프로필" />
@@ -45,8 +47,8 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle}" alt="Solved.ac 프로필" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- 뱃지 사이 간격 -->
-  <a href="https://solved.ac/{handle}">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle}" alt="Solved.ac 프로필" />
+  <a href="https://solved.ac/dbsgur123321">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dbsgur123321" alt="Solved.ac 프로필" />
   </a>
 </p>
 
